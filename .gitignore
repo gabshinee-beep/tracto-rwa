@@ -1,0 +1,16 @@
+node_modules/
+artifacts/
+cache/
+coverage/
+typechain-types/
+
+.env
+.env.*
+!.env.example
+.gh-cli-auth/
+
+*.log
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
